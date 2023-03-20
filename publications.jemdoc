@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Preprints and Publications
+
+- Behind the Scenes of Gradient Descent: A Trajectory Analysis via Basis Function Decomposition \[[https://arxiv.org/abs/2210.00346 arxiv]\] \n
+*Jianhao Ma*, Lingjun Guo, Salar Fattahi \n 
+- Global Convergence of Sub-gradient Method for Robust Matrix Recovery: Small Initialization, Noisy Measurements, and Over-parameterization \[[https://arxiv.org/abs/2202.08788 arxiv]\] \n
+*Jianhao Ma*, Salar Fattahi \n 
+- Blessing of Nonconvexity in Deep Linear Models: Depth Flattens the Optimization Landscape Around the True Solution \[[https://arxiv.org/abs/2207.07612 arxiv]\] \n
+Advances in Neural Information Processing Systems (NeurIPS) 2022 \n
+*Jianhao Ma*, Salar Fattahi \n 
+- Towards Understanding Generalization via Decomposing Excess Risk Dynamics \[[https://openreview.net/forum?id=rS9-7AuPKWK paper]\] \[[https://arxiv.org/abs/2106.06153 arxiv]\] \n 
+Jiaye Teng\*, *Jianhao Ma*\*, Yang Yuan \n 
+International Conference on Learning Representations (ICLR) 2022 \n 
+- Sign-RIP: A Robust Restricted Isometry Property for Low-rank Matrix Recovery \[[https://opt-ml.org/papers/2021/paper14.pdf paper]\]\[[https://arxiv.org/abs/2102.02969 arxiv]\] \n 
+*Jianhao Ma*, Salar Fattahi \n 
+NeurIPS Workshop on Optimization for Machine Learning, 2021 \n
+
