@@ -2,25 +2,29 @@
 == Jingwen Tang
 
 ~~~
-{}{img_left}{photos/jingwen.jpg}{alt text}{160px}{160px}
-#[https://JingwenTang.github.io Jingwen Tang] \n 
-Hi! I am a fourth-year Ph.D. candidate at the Department of [https://ioe.engin.umich.edu/ Industrial and Operations Engineering] (IOE) at the [https://umich.edu/ University of Michigan, Ann Arbor], where I am very fortunate to be advised by [http://www-personal.umich.edu/~shicong/ Professor Cong Shi]. My current research interests lie broadly in learning algorithms and data-driven optimization. Specific topics include *sequential decision-making under uncertainty* and *online and offline learning algorithms*, especially their applications in *supply chain management* and *revenue management*. \n
-Before joining the University of Michigan, I earned my Bachelor's degree in [https://www.ie.tsinghua.edu.cn/eng/ Industrial Engineering] from [https://www.tsinghua.edu.cn/en/ Tsinghua University]. \n
+{}{img_left}{photos/jingwen.jpg}{alt text}{326px}{245px}
+[https://JingwenTang.github.io Jingwen Tang] \n 
+Ph.D. candidate at [https://ioe.engin.umich.edu Department of Industrial and Operational Engineering] \n
+University of Michigan, Ann Arbor, United States \n
 \n
 Email: tjingwen \[at\] umich \[dot\] edu \n
-\[[Jingwen_Tang_CV.pdf *Curriculum Vitae*]\] \n
+\[[Jingwen_Tang_CV.pdf Curriculem Vitae]\] \n
 ~~~
 
-== Education 
-- Ph.D. in Operations Research (2019 - present), University of Michigan, Ann Arbor, MI. Advisor: [http://www-personal.umich.edu/~shicong/ Professor Cong Shi]. \n
-Joint Ph.D. in Scientific Computing (2021 - present)\n
-- B.S. in Industrial Engineering (2015 - 2019), Tsinghua University, Beijing, China. 
+== About me
+Hi! I am a fourth-year Ph.D. candidate at the Department of [https://ioe.engin.umich.edu/ Industrial and Operations Engineering] (IOE) at the University of Michigan, Ann Arbor [https://umich.edu/]. I am advised by [http://www-personal.umich.edu/~shicong/ Professor Cong Shi]. My current research interests lie in *online learning and adaptive decision-making*. Topics include combining optimization techniques with reinforcement learning algorithms and data-driven statistical learning algorithms, especially their applications in *supply chain management and revenue management*. \n
+Before joining Umich, I studied [https://www.ie.tsinghua.edu.cn/eng/ Industrial Engineering] at [https://www.tsinghua.edu.cn/en/ Tsinghua University]. 
+
+== Working Papers
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978123 Online Learning and Matching for Multiproduct Systems with General Upgrading], Jingwen Tang, Cong Shi, Izak Duenyas
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040305 Offline Feature-Based Pricing under Censored Demand: A Causal Inference Approach], Zhengling Qi, Jingwen Tang, Xingyuan (Ethan) Fang, Cong Shi, Major Revision at Management Science. 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143885 Online Learning for Dual Index Policies in Dual Sourcing Systems], Jingwen Tang, Boxiao (Beryl) Chen, Cong Shi, Major Revision at Manufacturing & Service Operations Management. 
+-- Winner, Richard C. Wilson Prize for Best Student Paper, University of Michigan IOE, 2023.
 
 == Research Interests 
 - Methodologies: Online Learning Algorithms, Approximation Algorithms
 - Applications: Supply Chain Management, Revenue Management, Service Systems
 
-== Working Papers
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978123 Online Learning and Matching for Multiproduct Systems with General Upgrading], Jingwen Tang, Cong Shi, Izak Duenyas, Under review. 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040305 Offline Feature-Based Pricing under Censored Demand: A Causal Inference Approach], Zhengling Qi, Jingwen Tang, Xingyuan (Ethan) Fang, Cong Shi, Major Revision at *Management Science*. 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143885 Online Learning for Dual Index Policies in Dual Sourcing Systems], Jingwen Tang, Boxiao (Beryl) Chen, Cong Shi, Major Revision at *Manufacturing & Service Operations Management*. 
+== Education 
+Ph.D. in Operations Research (2019 - present), Joint Ph.D. in Scientific Computing (2021 - present), Advisor: [http://www-personal.umich.edu/~shicong/ Professor Cong Shi], University of Michigan, Ann Arbor, MI.  \n
+B.E. in Industrial Engineering (2015 - 2019), Tsinghua University, Beijing, China. 
