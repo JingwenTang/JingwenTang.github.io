@@ -2,15 +2,15 @@
 == Jingwen Tang
 
 ~~~
-{}{img_left}{photos/jingwen.jpg}{alt text}{160px}{160px}
+{}{img_left}{photos/Jingwen Tang.jpg}{alt text}{196px}{264px}
 #[https://JingwenTang.github.io Jingwen Tang] \n 
 Hi! I am an Assistant Professor at the [https://www.herbert.miami.edu/faculty-research/academic-departments/management/index.html Department of Management] at [https://www.herbert.miami.edu/ Miami Herbert Business School], [https://welcome.miami.edu/ University of Miami]. \n\n
-Before joining the University of Miami, I earned my Ph.D. degree in Operations Research from the Department of [https://ioe.engin.umich.edu/ Industrial and Operations Engineering] (IOE) at the [https://umich.edu/ University of Michigan, Ann Arbor], where I was extremely fortunate to be advised by [https://congshi-research.github.io/ Professor Cong Shi]. I earned my Bachelor's degree in [https://www.ie.tsinghua.edu.cn/eng/ Industrial Engineering] from [https://www.tsinghua.edu.cn/en/ Tsinghua University].\n\n
+Before joining the University of Miami, I earned my Ph.D. degree in Operations Research from the Department of [https://ioe.engin.umich.edu/ Industrial and Operations Engineering] (IOE) at the [https://umich.edu/ University of Michigan, Ann Arbor], where I was very fortunate to be advised by [https://congshi-research.github.io/ Professor Cong Shi]. I earned my Bachelor's degree in [https://www.ie.tsinghua.edu.cn/eng/ Industrial Engineering] from [https://www.tsinghua.edu.cn/en/ Tsinghua University].\n\n
 My current research interests lie broadly in learning algorithms and data-driven optimization. Specific topics include *sequential decision-making under uncertainty* and *online and offline learning algorithms*, especially their applications in *supply chain management* and *revenue management*. \n
 
 Emails: \n
 tjingwen \[at\] bus \[dot\] miami \[dot\] edu \n tjingwen \[at\] umich \[dot\] edu \n\n
-\[[Jingwen_Tang_CV.pdf *Curriculum Vitae*]\] 
+\[[CV/Jingwen_Tang_CV.pdf *Curriculum Vitae*]\] 
 ~~~
 
 == Education 
@@ -25,8 +25,8 @@ Joint Ph.D. in Scientific Computing (2021 - 2024)\n
 == Journal Publications
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143885 Online Learning for Dual Index Policies in Dual Sourcing Systems], Jingwen Tang, Boxiao (Beryl) Chen, Cong Shi, *Manufacturing & Service Operations Management*. [https://pubsonline.informs.org/doi/10.1287/msom.2022.0323 \[DOI\]]
 -- Winner, Richard C. Wilson Prize for Best Student Paper, 2023.
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040305 Offline Feature-Based Pricing under Censored Demand: A Causal Inference Approach], Jingwen Tang, Zhengling Qi, Xingyuan (Ethan) Fang, Cong Shi, *Manufacturing & Service Operations Management*, to appear. 
 
 == Working Papers
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4781604 Multiproduct Inventory Systems with Upgrading: Replenishment, Allocation, and Online Learning], Jingwen Tang, Izak Duenyas, Cong Shi, Nan Yang. 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040305 Offline Feature-Based Pricing under Censored Demand: A Causal Inference Approach], Jingwen Tang, Zhengling Qi, Xingyuan (Ethan) Fang, Cong Shi. 
 - Remunerating Newsvendor Problem in a Two-Sided Market, Jingwen Tang, Cong Shi, Izak Duenyas. 
